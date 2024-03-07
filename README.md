@@ -1,6 +1,6 @@
 # Snowy: Build a LLM-Powered Chatbot in Streamlit on your Snowflake Data
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Snowflake-Labs/sfguide-frosty-llm-chatbot-on-streamlit-snowflake?quickstart=1)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Snowflake-Labs/sfguide-bscai?quickstart=1)
 
 ## Overview
 
