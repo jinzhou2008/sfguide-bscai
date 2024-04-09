@@ -17,12 +17,12 @@ openai.api_type = "azure"
 #openai.api_base = "https://edhopenaitest.openai.azure.com/"
 openai.azure_endpoint=  "https://edhopenaitest.openai.azure.com/"
 openai.api_version = "2023-07-01-preview"
-openai.api_key = "e83a3572341642228cd2fbd04b0b2da7"
+openai.api_key = ""
 #openai.api_key = st.secrets["OPENAI_API_KEY"]
 
 ## Validate OpenAI connection ##
 #client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
-#client = OpenAI(api_key="e83a3572341642228cd2fbd04b0b2da7")
+#client = OpenAI(api_key="")
 # completion = openai.chat.completions.create(
 #   model="gpt-4-edh",
 #   messages=[
